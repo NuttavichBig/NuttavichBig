@@ -7,12 +7,8 @@ However I realized my passion lies in technology and problem-solving.
 This led me to transition into software development. 
 I am eager to leverage my analytical and engineering background to develop innovative solutions in the tech industry.
 
-- 🌱 I’m currently learning **React, Typescript, NextJS**
-
-- 📫 How to reach me **nuttavich.si@gmail.com**
-
-- ⚡ Fun fact **All my projects are here so I don't know what I should put in portfolio**
-
+<h2>Contact</h2>
+✉️ Email : nuttavich.si@gmail.com
 
 <p align="left">
 </p>
