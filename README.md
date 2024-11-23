@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **All my projects are here so I don't know what I should put in portfolio**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
