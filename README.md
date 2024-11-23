@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nuttavich Sirivijitkul</h1>
 <h3 align="center">A junior full stack developer who very passionate to be advance in this developer career path</h3>
 
-<h3 align="center">About me</h3>
+<h2 align="left">About me</h2>
 I hold a Bachelor of Engineering in Food Engineering. 
 However I realized my passion lies in technology and problem-solving. 
 This led me to transition into software development. 
