@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Nuttavich Sirivijitkul</h1>
 <h3 align="center">A junior full stack developer who very passionate to be advance in this developer career path</h3>
 
+<h3 align="center">About me</h3>
+I hold a Bachelor of Engineering in Food Engineering. 
+However I realized my passion lies in technology and problem-solving. 
+This led me to transition into software development. 
+I am eager to leverage my analytical and engineering background to develop innovative solutions in the tech industry.
+
 - 🌱 I’m currently learning **React, Typescript, NextJS**
 
 - 📫 How to reach me **nuttavich.si@gmail.com**
