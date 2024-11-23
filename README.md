@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Nuttavich Sirivijitkul</h1>
 <h3 align="center">A junior full stack developer who very passionate to be advance in this developer career path</h3>
 
-<h2 align="left">About me</h2>
+<h2 align="left">🤗 About me</h2>
 I hold a Bachelor of Engineering in Food Engineering. 
 However I realized my passion lies in technology and problem-solving. 
 This led me to transition into software development. 
 I am eager to leverage my analytical and engineering background to develop innovative solutions in the tech industry.
 
-<h2>Contact</h2>
+<h2>🔗 Contact</h2>
 ✉️ Email : nuttavich.si@gmail.com
 
-<h2>Currently Learning</h2>
+<h2>📖 Currently Learning</h2>
 
 - Typescript
 
@@ -20,9 +20,8 @@ I am eager to leverage my analytical and engineering background to develop innov
   
 - Flutter
 
-## Languages and Tools
-
-### <u>Front End</u>
+<h2>💻 Languages and Tools</h2>
+<h3>Front End</h3>
 
 - <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> HTML  
 
@@ -35,7 +34,7 @@ I am eager to leverage my analytical and engineering background to develop innov
 - <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank" rel="noreferrer"> Zustand</a>
 ---
 
-<u><h3>Back End</h3></u>
+<h3>Back End</h3>
 
 - <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> NodeJS
 
